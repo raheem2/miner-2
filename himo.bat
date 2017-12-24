@@ -1,0 +1,1 @@
+"C:\Users\Raheem\Downloads\Compressed\3danalyzer-v236\3DAnalyze.exe" /EXE=C:\Program Files\MinerGate\minergate.exe 
